@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+# Data Visualization Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React-based data visualization site that displays various datasets using interactive charts and graphs. This project includes visualizations for vaccine dose distribution, annual mean temperatures, and property prices in Ahmedabad.
 
-## Available Scripts
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+- [Running the Project](#running-the-project)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
 
-In the project directory, you can run:
+## Project Overview
 
-### `npm start`
+This project is a web application built with React and D3.js for visualizing various datasets. The application includes the following visualizations:
+- Indian Vaccine Dose Distribution
+- Annual Mean Temperature from 1901 to 2021
+- Property Prices in Ahmedabad
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
+- Interactive charts with filtering options
+- Data downloading as CSV files
+- Responsive design
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Screenshots
 
-### `npm test`
+### Home Page
+![Home Page](./screenshots/home-page.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Indian Vaccine Dose Distribution
+![Vaccine Dose Distribution](./screenshots/vaccine-dose-distribution.png)
 
-### `npm run build`
+### Annual Mean Temperature
+![Annual Mean Temperature](./screenshots/annual-mean-temperature.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Property Prices in Ahmedabad
+![Property Prices](./screenshots/property-prices.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
+- Node.js (version 12 or later)
+- npm (version 6 or later)
 
-### `npm run eject`
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sumeetbidhan/data-visualization-site.git
+Navigate to the project directory:
+bash
+Copy code
+cd data-visualization-site
+Install the dependencies:
+bash
+Copy code
+npm install
+Running the Project
+To run the project locally, use the following command:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+bash
+Copy code
+npm start
+This will start the development server and open the application in your default web browser. The server will automatically reload if you make changes to the source code.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Dependencies
+This project relies on the following major dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+React: A JavaScript library for building user interfaces
+D3.js: A JavaScript library for producing dynamic, interactive data visualizations
+react-router-dom: A library for routing in React applications
+For a complete list of dependencies, refer to the package.json file.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contributing
+Contributions are welcome! Please follow these steps to contribute:
 
-## Learn More
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes and commit them (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
