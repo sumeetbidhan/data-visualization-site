@@ -1,38 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Freeman&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: linear-gradient(45deg, #FFEFBA, #FFFFFF);
+  margin: 0;
+  font-family: "Freeman", sans-serif;
+}
+
+.freeman-regular {
+  font-family: "Freeman", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .App {
   text-align: center;
+  padding-top: 80px; 
 }
 
-.App-logo {
-  height: 40vmin;
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
   pointer-events: none;
+  font-family: "Freeman", sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.content {
+  padding: 2rem;
+  margin-top: 2rem; 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#filters {
+  margin-bottom: 2rem;
+  font-family: "Freeman", sans-serif;
+}
+
+#categoryFilter {
+  padding: 0.5rem;
+  border-radius: 5px;
+  font-family: "Freeman", sans-serif;
+}
+
+.download-link {
+  font-family: "Freeman", sans-serif;
+  text-decoration: none;
+  color: #000;
+  background: linear-gradient(45deg, #B2FEFA , #FFD200 );
+  padding: 0.5rem 1rem;
+  border: 1px solid #000;
+  border-radius: 5px;
+  transition:  2s ease-in-out;
+}
+
+.download-link:hover {
+  background: linear-gradient(45deg,#B2FEFA,  #0ED2F7);
+}
+
+.legend {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-left: 36%;
+  margin-top: 15px;
 }
 
-.App-link {
-  color: #61dafb;
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.legend-color {
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5rem;
+  border-radius: 3px;
+}
+
+
+svg {
+  display: block;
+  margin: auto;
+}
+
+.download-link-move-down {
+  margin-top: 100px; /* Adjust the value as needed */
 }

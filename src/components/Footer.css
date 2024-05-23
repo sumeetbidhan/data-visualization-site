@@ -1,0 +1,43 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+  background-color: rgba(139, 130, 130, 0.8);
+  border-top: 1px solid #e9ecef;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-left {
+  font-size: 10px;
+}
+
+.footer-right {
+  display: flex;
+  align-items: center;
+}
+
+.footer-icon-li {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+  transition: transform 0.2s;
+
+}
+.footer-icon-git {
+  width: 15px;
+  height: 15px;
+  margin-right: 30px;
+  transition: transform 0.2s;
+
+}
+
+.footer-icon-li:hover {
+  transform: scale(1.1);
+}
+.footer-icon-git:hover {
+  transform: scale(1.1);
+}
+

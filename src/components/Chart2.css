@@ -1,0 +1,28 @@
+.body{
+  font-family: "Freeman", sans-serif;
+
+}
+.bar {
+  transition: fill 0.3s ease;
+}
+
+.bar:hover {
+  fill: orange;
+}
+
+.x-axis path,
+.y-axis path,
+.x-axis line,
+.y-axis line {
+  shape-rendering: crispEdges;
+  stroke: #ccc;
+}
+
+.x-axis text,
+.y-axis text {
+  font-size: 10px;
+}
+#yearFilter{
+  font-family: "Freeman", sans-serif;
+
+}

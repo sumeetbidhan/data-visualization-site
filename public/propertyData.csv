@@ -1,0 +1,229 @@
+seller_type,bedroom,layout_type,property_type,locality,price,area,furnish_type,bathroom,city
+OWNER,2.0,BHK,Apartment,Bodakdev,20000.0,1450.0,Furnished,2.0,Ahmedabad
+OWNER,1.0,RK,Studio Apartment,CG Road,7350.0,210.0,Semi-Furnished,1.0,Ahmedabad
+OWNER,3.0,BHK,Apartment,Jodhpur,22000.0,1900.0,Unfurnished,3.0,Ahmedabad
+OWNER,2.0,BHK,Independent House,Sanand,13000.0,1285.0,Semi-Furnished,2.0,Ahmedabad
+OWNER,2.0,BHK,Independent House,Navrangpura,18000.0,1600.0,Furnished,2.0,Ahmedabad
+OWNER,1.0,BHK,Apartment,Vejalpur,8500.0,570.0,Unfurnished,1.0,Ahmedabad
+OWNER,1.0,RK,Studio Apartment,Jivraj Park,6000.0,180.0,Semi-Furnished,1.0,Ahmedabad
+OWNER,2.0,BHK,Apartment,Nikol,12000.0,1200.0,Semi-Furnished,2.0,Ahmedabad
+OWNER,2.0,BHK,Apartment,Shahibuag,13000.0,1126.0,Semi-Furnished,2.0,Ahmedabad
+OWNER,4.0,BHK,Independent House,Maninagar,38500.0,3500.0,Furnished,4.0,Ahmedabad
+OWNER,1.0,RK,Studio Apartment,Ghatlodiya,6000.0,400.0,Semi-Furnished,1.0,Ahmedabad
+OWNER,2.0,BHK,Apartment,Maninagar,15000.0,990.0,Unfurnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Shilaj,20000.0,1440.0,Semi-Furnished,3.0,Ahmedabad
+OWNER,2.0,BHK,Independent House,Saijpur Bogha,6500.0,900.0,Unfurnished,1.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1250.0,Furnished,1.0,Ahmedabad
+AGENT,1.0,BHK,Apartment,Vastrapur,13500.0,1000.0,Semi-Furnished,2.0,Ahmedabad
+OWNER,1.0,BHK,Independent House,Satellite,8000.0,160.0,Furnished,1.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Ghatlodiya,20000.0,1800.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bodakdev,12000.0,810.0,Unfurnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,38000.0,1985.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Prahlad Nagar,14000.0,1256.0,Unfurnished,2.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Satellite,110000.00000000001,3375.0,Furnished,4.0,Ahmedabad
+OWNER,1.0,BHK,Independent House,Ghatlodiya,5000.0,200.0,Semi-Furnished,1.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Vasna,40000.0,2100.0,Furnished,4.0,Ahmedabad
+OWNER,2.0,BHK,Independent Floor,Maninagar,16000.0,1300.0,Unfurnished,2.0,Ahmedabad
+OWNER,2.0,BHK,Apartment,Shela,25000.0,1285.0,Furnished,2.0,Ahmedabad
+OWNER,3.0,BHK,Apartment,Bopal,20000.0,1455.0,Unfurnished,3.0,Ahmedabad
+OWNER,1.0,BHK,Apartment,Makarba,11000.0,650.0,Semi-Furnished,1.0,Ahmedabad
+OWNER,1.0,BHK,Apartment,Khokhra,10500.0,630.0,Semi-Furnished,1.0,Ahmedabad
+OWNER,1.0,RK,Studio Apartment,Ghatlodiya,8000.0,300.0,Semi-Furnished,1.0,Ahmedabad
+OWNER,3.0,BHK,Apartment,Shahibuag,22000.0,1800.0,Unfurnished,3.0,Ahmedabad
+OWNER,3.0,BHK,Villa,Ghuma,23000.0,1800.0,Semi-Furnished,3.0,Ahmedabad
+OWNER,2.0,BHK,Apartment,Bodakdev,25000.0,1200.0,Furnished,2.0,Ahmedabad
+OWNER,1.0,BHK,Apartment,Ghodsar,11000.0,186.0,Furnished,1.0,Ahmedabad
+OWNER,3.0,BHK,Independent Floor,Jodhpur,8500.0,800.0,Furnished,3.0,Ahmedabad
+OWNER,1.0,BHK,Independent House,Jodhpur,12500.0,1000.0,Semi-Furnished,1.0,Ahmedabad
+OWNER,1.0,BHK,Independent House,Ghatlodiya,9000.0,625.0,Unfurnished,1.0,Ahmedabad
+OWNER,2.0,BHK,Independent Floor,Bopal,16000.0,1090.0,Semi-Furnished,2.0,Ahmedabad
+OWNER,3.0,BHK,Independent House,Chandkheda,17000.0,1575.0,Unfurnished,2.0,Ahmedabad
+OWNER,1.0,RK,Studio Apartment,Vasna,15000.0,400.0,Furnished,1.0,Ahmedabad
+OWNER,3.0,BHK,Apartment,Memnagar,18000.0,1200.0,Semi-Furnished,2.0,Ahmedabad
+OWNER,2.0,BHK,Apartment,Nehru Nagar,18500.0,990.0,Unfurnished,2.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,60000.0,2500.0,Furnished,4.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Keshav Nagar,13000.0,1225.0,Furnished,1.0,Ahmedabad
+AGENT,1.0,BHK,Apartment,Near Nirma University On SG Highway,9000.0,649.0,Unfurnished,2.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Prahlad Nagar,50000.0,3000.0,Furnished,4.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Science City,32000.0,2178.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Thaltej,90000.0,3350.0,Furnished,4.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Naranpuraa,23000.0,1404.0,Furnished,1.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Thaltej,30000.0,1650.0,Unfurnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Vastrapur,32000.0,1845.0,Unfurnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jagatpur,11500.0,1150.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bodakdev,26000.0,1080.0,Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Independent House,Motera,18000.0,1800.0,Furnished,4.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Jodhpur,35000.0,2350.0,Semi-Furnished,1.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Vastrapur,40000.0,1665.0,Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,29000.0,1440.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,25000.0,1305.0,Furnished,2.0,Ahmedabad
+AGENT,1.0,BHK,Apartment,Bodakdev,14000.0,900.0,Semi-Furnished,1.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,20500.0,1783.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,26000.0,1500.0,Furnished,2.0,Ahmedabad
+AGENT,1.0,BHK,Apartment,Ambavadi,11000.0,1170.0,Unfurnished,1.0,Ahmedabad
+AGENT,1.0,BHK,Apartment,Shrinand Nagar,11000.0,690.0,Semi-Furnished,1.0,Ahmedabad
+AGENT,1.0,BHK,Apartment,Shela,8500.0,646.0,Unfurnished,1.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Prahlad Nagar,33000.0,1750.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Ambavadi,16000.0,750.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Ambavadi,25000.0,1125.0,Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Navrangpura,28000.0,1800.0,Unfurnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Villa,Bopal,20000.0,2300.0,Unfurnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Independent House,Makarba,20000.0,2700.0,Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Science City,30000.0,2115.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satlasana,22000.0,1100.0,Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Thaltej,56000.0,2300.0,Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Independent House,Bopal,30000.0,2070.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,1820.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,20000.0,1600.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,35000.0,1950.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Vastrapur,25000.0,1200.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,43000.0,3250.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Paldi,15000.0,1000.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Vejalpur,16000.0,1350.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Makarba,42000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,1.0,BHK,Independent House,Navrangpura,9500.0,1250.0,Furnished,1.0,Ahmedabad
+AGENT,2.0,BHK,Independent House,Satellite,15000.0,1355.0,Semi-Furnished,1.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Makarba,18000.0,1100.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Juhapura,8000.0,1000.0,Unfurnished,2.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Shela,45000.0,2300.0,Furnished,4.0,Ahmedabad
+AGENT,4.0,BHK,Independent House,Thaltej,70000.0,3000.0,Furnished,4.0,Ahmedabad
+AGENT,5.0,BHK,Independent House,Shela,35000.0,3600.0,Semi-Furnished,5.0,Ahmedabad
+AGENT,2.0,BHK,Villa,Paldi,35000.0,2000.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Naranpuraa,15000.0,1200.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,12000.0,1000.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,22000.0,1250.0,Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Thaltej,27000.0,1850.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,26000.0,1290.0,Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Prahlad Nagar,28000.0,1881.0,Semi-Furnished,3.0,Ahmedabad
+OWNER,2.0,BHK,Independent House,Sanand,13000.0,1245.0,Semi-Furnished,2.0,Ahmedabad
+OWNER,2.0,BHK,Independent House,Sanand,13000.0,1285.0,Semi-Furnished,2.0,Ahmedabad
+OWNER,3.0,BHK,Villa,Moraiya,25000.0,2400.0,Unfurnished,3.0,Ahmedabad
+OWNER,2.0,BHK,Apartment,Shahibuag,13000.0,1126.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Shilaj,18000.0,1305.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Shilaj,16000.0,1200.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Makarba,18000.0,1557.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Memnagar,31000.0,1508.0,Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Jodhpur,20000.0,2250.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1296.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bopal,45000.0,2300.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bopal,60000.0,3200.0,Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,36000.0,1201.0,Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,23000.0,1433.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bopal,60000.0,2905.0,Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Shilaj,18000.0,1500.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Gota,19000.0,1800.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,28000.0,2025.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,25000.0,1260.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,17500.0,1200.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Villa,Bopal,24000.0,1700.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,5.0,BHK,Independent House,Bopal,35000.0,2700.0,Semi-Furnished,4.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,19000.0,1500.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Independent House,Bopal,25000.0,2250.0,Unfurnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Jodhpur,25000.0,1800.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Shela,16000.0,1140.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Shela,17500.0,1250.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,18000.0,1440.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1250.0,Furnished,1.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1250.0,Furnished,1.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1250.0,Furnished,1.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1250.0,Furnished,1.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1250.0,Furnished,1.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1250.0,Furnished,1.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1250.0,Furnished,1.0,Ahmedabad
+OWNER,2.0,BHK,Apartment,Vatva,13000.0,1200.0,Furnished,2.0,Ahmedabad
+AGENT,5.0,BHK,Apartment,Science City,70000.0,2700.0,Semi-Furnished,5.0,Ahmedabad
+AGENT,4.0,BHK,Independent House,Thaltej,45000.0,2250.0,Furnished,4.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bodakdev,12000.0,810.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Bodakdev,12000.0,810.0,Unfurnished,2.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Shela,16500.0,1450.0,Unfurnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,38000.0,1985.0,Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,38000.0,1985.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Thaltej,16000.0,1170.0,Unfurnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Shela,16500.0,1450.0,Unfurnished,3.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0,Ahmedabad
+AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bopal,38000.0,1985.0,Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Thaltej,16000.0,1170.0,Unfurnished,2.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Thaltej,25000.0,2250.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Thaltej,25000.0,2250.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,2100.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,2100.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,2100.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,2100.0,Semi-Furnished,3.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,12000.0,1250.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,12000.0,1256.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,12000.0,1256.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,14000.0,1255.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,14000.0,1231.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,14000.0,1231.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,13000.0,1263.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,13000.0,1263.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,13500.0,1280.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,13000.0,1263.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,12000.0,1243.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,13000.0,1260.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,12000.0,1243.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,12500.0,1280.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,18000.0,1290.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,18000.0,1290.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,18000.0,1290.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,18000.0,1290.0,Unfurnished,2.0,Ahmedabad
+AGENT,2.0,BHK,Apartment,Satellite,11000.0,1190.0,Unfurnished,2.0,Ahmedabad
+

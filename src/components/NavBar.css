@@ -1,0 +1,111 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8); 
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-left {
+  flex: 1;
+}
+
+.navbar-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 2;
+}
+
+.navbar-center a,
+.navbar-center .navbar-dropdown {
+  margin: 0 2rem;
+}
+
+.navbar-right {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 50px;
+}
+
+.navbar-name {
+  color: #c3ee27;
+  margin-right: 2rem;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.navbar-name:hover {
+  color: #27eec6;
+}
+
+.navbar-button,
+.dropdown-content a {
+  color: black;
+  background: linear-gradient(45deg, #B2FEFA , #FFD200 );
+  padding: 0.6rem 1.5rem; /* Increased padding for bigger buttons */
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: .8rem; /* Adjust font size for larger buttons */
+  transition: background-color 2s ease-in-out, transform 0.5s; /* Combine transitions */
+  border: 2px solid; /* Add border */
+  border-color: rgb(89, 92, 92);
+  font-family: "Freeman", sans-serif;
+
+}
+
+.navbar-button:hover,
+.dropdown-content a:hover {
+  background: linear-gradient(45deg,#B2FEFA,  #0ED2F7);
+  transform: scale(1.2);
+  border-color: rgb(207, 190, 172); 
+}
+
+.navbar-icon {
+  margin-left: 1.5rem;
+  transition: transform 0.7s; 
+}
+
+.navbar-icon img {
+  width: 25px;
+  height: 25px;
+}
+
+.navbar-icon:hover {
+  transform: scale(1.4); 
+}
+.navbar-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.navbar-dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.8); 
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 10px; 
+  padding: 0.6rem 0; 
+}
+
+.dropdown-content a {
+  display: block;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0; 
+  color: rgb(3, 3, 3); 
+}
+
+.dropdown-content a:hover {
+  background-color: rgba(255, 255, 255, 0.1); 
+}
