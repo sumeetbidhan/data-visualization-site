@@ -10,7 +10,7 @@ A React-based data visualization site that displays various datasets using inter
 - [Running the Project](#running-the-project)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -75,11 +75,12 @@ For a complete list of dependencies, refer to the package.json file.
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature-branch).
+5. Open a pull request.
+
+
+
 
